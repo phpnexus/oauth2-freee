@@ -64,7 +64,7 @@ Please see [CONTRIBUTING](https://github.com/phpnexus/oauth2-freee/blob/master/C
 
 ## Credits
 
-- [Mark Prosser](https://github.com/phpnexus)
+- [Mark Prosser](https://github.com/markinjapan)
 - [All Contributors](https://github.com/phpnexus/oauth2-freee/contributors)
 
 
