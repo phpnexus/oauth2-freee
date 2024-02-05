@@ -1,4 +1,4 @@
-# Heroku Provider for OAuth 2.0 Client
+# Freee Provider for OAuth 2.0 Client
 
 [![Latest Version](https://img.shields.io/github/release/phpnexus/oauth2-freee.svg?style=flat-square)](https://github.com/phpnexus/oauth2-freee/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
