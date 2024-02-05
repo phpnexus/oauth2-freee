@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PhpNexus\OAuth2\Client\Providers;
+namespace PhpNexus\OAuth2\Client\Provider;
 
 use League\OAuth2\Client\Provider\AbstractProvider;
 use League\OAuth2\Client\Provider\Exception\IdentityProviderException;
