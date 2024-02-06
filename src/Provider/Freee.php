@@ -15,7 +15,7 @@ class Freee extends AbstractProvider
 {
     use BearerAuthorizationTrait;
 
-    const ACCESS_TOKEN_RESOURCE_OWNER_ID = 'id';
+    public const ACCESS_TOKEN_RESOURCE_OWNER_ID = 'id';
 
     public function getBaseAuthorizationUrl(): string
     {
