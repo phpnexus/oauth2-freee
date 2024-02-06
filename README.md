@@ -2,7 +2,7 @@
 
 [![Actions Status](https://github.com/phpnexus/oauth2-freee/workflows/Pipeline/badge.svg)](https://github.com/phpnexus/oauth2-freee/actions)
 [![Coverage Status](https://img.shields.io/coveralls/phpnexus/oauth2-freee/main.svg)](https://coveralls.io/github/phpnexus/oauth2-freee?branch=main)
-[![License](https://img.shields.io/packagist/l/phpnexus/oauth2-freee.svg)](https://github.com/phpnexus/oauth2-freee/blob/master/LICENSE)
+[![License](https://img.shields.io/packagist/l/phpnexus/oauth2-freee.svg)](https://github.com/phpnexus/oauth2-freee/blob/main/LICENSE)
 [![Version](https://img.shields.io/packagist/v/phpnexus/oauth2-freee.svg)](https://packagist.org/packages/phpnexus/oauth2-freee)
 [![Downloads](https://img.shields.io/packagist/dt/phpnexus/oauth2-freee.svg)](https://packagist.org/packages/phpnexus/oauth2-freee/stats)
 
@@ -58,7 +58,7 @@ $ ./vendor/bin/phpunit
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/phpnexus/oauth2-freee/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/phpnexus/oauth2-freee/blob/main/CONTRIBUTING.md) for details.
 
 
 ## Credits
@@ -69,4 +69,4 @@ Please see [CONTRIBUTING](https://github.com/phpnexus/oauth2-freee/blob/master/C
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/phpnexus/oauth2-freee/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/phpnexus/oauth2-freee/blob/main/LICENSE) for more information.
