@@ -53,4 +53,3 @@ class Freee extends AbstractProvider
         return new FreeeResourceOwner($response);
     }
 }
-

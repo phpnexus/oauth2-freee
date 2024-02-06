@@ -142,7 +142,7 @@ class FreeeTest extends TestCase
     {
         $this->expectException(IdentityProviderException::class);
 
-        $status = rand(401,599);
+        $status = rand(401, 599);
         $error = $this->getJsonFile('error_response.json');
 
         $errorStream = Mockery::mock('Psr\Http\Message\StreamInterface');
