@@ -134,8 +134,12 @@ class FreeeTest extends TestCase
 
         $this->assertEquals($userData, $user->toArray());
         $this->assertEquals($userData['id'], $user->getId());
-        $this->assertEquals($userData['display_name'], $user->getDisplayName());
         $this->assertEquals($userData['email'], $user->getEmail());
+        $this->assertEquals($userData['display_name'], $user->getDisplayName());
+        $this->assertEquals($userData['first_name'], $user->getFirstName());
+        $this->assertEquals($userData['last_name'], $user->getLastName());
+        $this->assertEquals($userData['first_name_kana'], $user->getFirstNameKana());
+        $this->assertEquals($userData['last_name_kana'], $user->getLastNameKana());
     }
 
     public function testExceptionThrownWhenErrorObjectReceived()
