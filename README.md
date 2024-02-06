@@ -1,11 +1,10 @@
 # Freee Provider for OAuth 2.0 Client
 
-[![Latest Version](https://img.shields.io/github/release/phpnexus/oauth2-freee.svg?style=flat-square)](https://github.com/phpnexus/oauth2-freee/releases)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/phpnexus/oauth2-freee/master.svg?style=flat-square)](https://travis-ci.org/phpnexus/oauth2-freee)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/phpnexus/oauth2-freee.svg?style=flat-square)](https://scrutinizer-ci.com/g/phpnexus/oauth2-freee/code-structure)
-[![Quality Score](https://img.shields.io/scrutinizer/g/phpnexus/oauth2-freee.svg?style=flat-square)](https://scrutinizer-ci.com/g/phpnexus/oauth2-freee)
-[![Total Downloads](https://img.shields.io/packagist/dt/phpnexus/oauth2-freee.svg?style=flat-square)](https://packagist.org/packages/phpnexus/oauth2-freee)
+[![Actions Status](https://github.com/phpnexus/oauth2-freee/workflows/Pipeline/badge.svg)](https://github.com/phpnexus/oauth2-freee/actions)
+[![Coverage Status](https://img.shields.io/coveralls/phpnexus/oauth2-freee/main.svg)](https://coveralls.io/github/phpnexus/oauth2-freee?branch=main)
+[![License](https://img.shields.io/packagist/l/phpnexus/oauth2-freee.svg)](https://github.com/phpnexus/oauth2-freee/blob/master/LICENSE)
+[![Version](https://img.shields.io/packagist/v/phpnexus/oauth2-freee.svg)](https://packagist.org/packages/phpnexus/oauth2-freee)
+[![Downloads](https://img.shields.io/packagist/dt/phpnexus/oauth2-freee.svg)](https://packagist.org/packages/phpnexus/oauth2-freee/stats)
 
 This package provides Freee OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
