@@ -1,0 +1,8 @@
+{
+  "scope": "read write default_read",
+  "expires": 1706875928,
+  "created_at": 1706854328,
+  "token_type": "bearer",
+  "access_token": "mock_access_token",
+  "refresh_token": "509c1604ea06c7e62a3b916cab2e789fc6a3975dfad6fb76b6e95efc323a2148"
+}
